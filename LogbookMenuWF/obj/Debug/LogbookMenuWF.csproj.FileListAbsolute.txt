@@ -1,0 +1,13 @@
+C:\Projects\LogbookMenuWF\LogbookMenuWF\bin\Debug\LogbookMenuWF.exe.config
+C:\Projects\LogbookMenuWF\LogbookMenuWF\bin\Debug\LogbookMenuWF.exe
+C:\Projects\LogbookMenuWF\LogbookMenuWF\bin\Debug\LogbookMenuWF.pdb
+C:\Projects\LogbookMenuWF\LogbookMenuWF\bin\Debug\Guna.UI2.dll
+C:\Projects\LogbookMenuWF\LogbookMenuWF\obj\Debug\LogbookMenuWF.csproj.AssemblyReference.cache
+C:\Projects\LogbookMenuWF\LogbookMenuWF\obj\Debug\LogbookMenuWF.Form1.resources
+C:\Projects\LogbookMenuWF\LogbookMenuWF\obj\Debug\LogbookMenuWF.Properties.Resources.resources
+C:\Projects\LogbookMenuWF\LogbookMenuWF\obj\Debug\LogbookMenuWF.csproj.GenerateResource.cache
+C:\Projects\LogbookMenuWF\LogbookMenuWF\obj\Debug\LogbookMenuWF.csproj.CoreCompileInputs.cache
+C:\Projects\LogbookMenuWF\LogbookMenuWF\obj\Debug\LogbookMenuWF.csproj.CopyComplete
+C:\Projects\LogbookMenuWF\LogbookMenuWF\obj\Debug\LogbookMenuWF.exe
+C:\Projects\LogbookMenuWF\LogbookMenuWF\obj\Debug\LogbookMenuWF.pdb
+C:\Projects\LogbookMenuWF\LogbookMenuWF\obj\Debug\LogbookMenuWF.StudentUC.resources
