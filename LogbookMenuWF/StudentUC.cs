@@ -229,7 +229,7 @@ namespace LogbookMenuWF
         {
             if (btn_Diamond3.Text == "1")
             {
-                if (ParentForm.lbl_DiamondCount.Text != "0" && ParentForm.lbl_DiamondCount.Text != "2")
+                if (ParentForm.lbl_DiamondCount.Text != "0" && ParentForm.lbl_DiamondCount.Text != "1" && ParentForm.lbl_DiamondCount.Text != "2")
                 {
                     if (btn_Diamond1.Text == "1" && btn_Diamond2.Text == "1")
                     {
