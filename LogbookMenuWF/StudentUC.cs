@@ -18,7 +18,6 @@ namespace LogbookMenuWF
         {
             InitializeComponent();
         }
-
         private void Rb_CheckedChanged(object sender, EventArgs e)
         {
             if (sender is Guna.UI2.WinForms.Guna2CustomRadioButton rb)
@@ -64,9 +63,8 @@ namespace LogbookMenuWF
                     ParentForm.lbl_DiamondCount.Text = (int.Parse(ParentForm.lbl_DiamondCount.Text) + 2).ToString();
                 else if (btn_Diamond1.Text == "2" && btn_Diamond2.Text == "2" && btn_Diamond3.Text == "2")
                     ParentForm.lbl_DiamondCount.Text = (int.Parse(ParentForm.lbl_DiamondCount.Text) + 3).ToString();
-                cb_InspectionWork.FillColor = Color.White;
                 cb_ClassWork.FillColor = Color.White;
-
+                cb_InspectionWork.FillColor = Color.White;
             }
         }
         private void Btn_AddComment_Click(object sender, EventArgs e)

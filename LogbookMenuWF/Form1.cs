@@ -173,7 +173,6 @@ namespace LogbookMenuWF
                     uc.cb_ClassWork.Enabled = true;
                     uc.cb_InspectionWork.Enabled = true;
                 });
-
             }
         }
     }
